@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スプリット",
+  "base_artist": "Suneohair",
+  "createdAt": "2026-02-07T07:54:49.135999Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スプリット",
+      "artist": "スネオヘアー",
+      "has_synced": false,
+      "path": "select/pl_01_スプリット_スネオヘアー.txt"
+    }
+  ]
+}
